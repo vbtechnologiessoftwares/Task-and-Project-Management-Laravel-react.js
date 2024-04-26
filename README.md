@@ -38,7 +38,7 @@ Experienced Software Engineer with a demonstrated history of working in the info
 
 You can view my profile here: https://vedantbhatia.me/
 
-My journey in web development has provided me with a solid foundation, starting with PHP and WordPress and progressing to expertise in Laravel and other modern technologies. At Aycom, I spearheaded PHP and Laravel projects for two years, demonstrating my capability to deliver top-notch solutions within tight deadlines.
+My journey in web development has provided me with a solid foundation, starting with PHP and WordPress and progressing to expertise in Laravel and other modern technologies. I spearheaded PHP , Laravel and React.js projects for 4 years, demonstrating my capability to deliver top-notch solutions within tight deadlines.
 
 In addition to coding languages, I am adept at API integration and lead generation, bolstered by my familiarity with tools such as Jira, Hubspot, Boberdoo, Leadspedia, Zoho, and HTML5. I am attracted to your company's dedication to innovation and am enthusiastic about bringing my versatile skills to your dynamic team.
 
